@@ -1,3 +1,3 @@
 ﻿  CGAME.cpp
-C:\Users\Duy An\source\repos\test\CS202-18APCS-group7\CrossingStreetGame\CrossingStreetGame\CGAME.cpp(87,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Duy An\source\repos\test\CS202-18APCS-group7\CrossingStreetGame\CrossingStreetGame\CGAME.cpp(85,20): warning C4018: '<': signed/unsigned mismatch
   CrossingStreetGame.vcxproj -> C:\Users\Duy An\source\repos\test\CS202-18APCS-group7\CrossingStreetGame\Debug\CrossingStreetGame.exe
